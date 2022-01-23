@@ -1,0 +1,107 @@
+#Information{
+
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-image:url("../images/h_img.jpg");
+}
+.AboutUS{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-style: initial;
+    text-align: center;
+}
+#Dlogo {
+    margin-top: 10%;
+}
+#Dlogo2 {
+    margin-top: 15%;
+}
+.OurService{
+    background-image: url(../images/s_image.jpg);
+    text-align: center;
+    font-weight: bold;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    margin-top: 5%;
+  font-style: initial;
+  text-align: center;
+}
+.OurService h2 {
+text-align: center;
+color: white;
+}
+.OurService p {
+    text-align: center;
+    color: white;
+    margin-top: 1%;
+}
+.Picture {
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 8%;
+    opacity: 0%;
+    width: 80%;
+    border: 5px solid white;
+    padding: 4px;
+    margin: 5px;
+    height: 80%;
+    font-weight: bold;
+
+}
+ .Project1 {
+    font-size: 35px;
+    font-weight: 900;
+    color: white;
+ }
+
+h2 {
+    text-align: center;
+}
+
+.column {
+    padding: 15px;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.column img {
+    width: 100%;
+}
+.ContactsCont {
+    background-image: url(../images/c_image.jpg);
+    font-weight: bold;
+    background-size: cover;
+    color: white;
+    height: 70vh;
+    margin-top: 5%;
+    text-align: center;
+    font-weight: bold;
+    background-position: center;
+}
+
+.ContactUs {
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: small;
+    font-display: bold;
+}
+
+  .col-sm-3 img{
+    max-width: 100%;
+    height: auto;
+  }
+
+  .form-control {
+      background: transparent;
+      border: white 1px solid;
+      color: white;
+  }
